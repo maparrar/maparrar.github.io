@@ -25,6 +25,7 @@ instagram_username: maparrar
 # Build settings
 markdown: kramdown
 theme: minima
+#remote-theme: pages-themes/hacker
 plugins:
   - jekyll-feed
 
