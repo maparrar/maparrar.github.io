@@ -21,7 +21,7 @@ This is a basic template. Simply go to point A to B as straight you can
 
 <iframe src="/resources/files/short_lines.pdf" width="100%" height="500px"></iframe>
 
-
+<br><br>
 {% if page.comments %}
     {% if page.comments != false and jekyll.environment == "production" %}
 
@@ -44,7 +44,7 @@ This is a basic template. Simply go to point A to B as straight you can
 {% endif %}
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 <hr>
 <sub><sup>
     Tattoo account: <a href="https://www.instagram.com/maparrar.t/" target="_blank">@maparrar.t</a> - 
