@@ -23,7 +23,28 @@ This is a basic template. Simply go to point A to B as straight you can
 
 
 {% if page.comments %}
-    {% include disqus_comments.html %}                    
+    {% if page.comments != false and jekyll.environment == "production" %}
+
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = 'https://maparrar.me/tattoo-templates/';
+        this.page.identifier = 'tattoo-templates';
+
+        alert("Testing");
+        alert(this.page.url);
+        alert(this.page.identifier);
+    };
+    (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://maparrar.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                        
+    {% endif %}                 
 {% endif %}
 
 
@@ -34,4 +55,4 @@ This is a basic template. Simply go to point A to B as straight you can
 </sup></sub>
 {% include donate.html %}
 
-A
+B
