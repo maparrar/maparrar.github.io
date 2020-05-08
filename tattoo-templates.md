@@ -30,10 +30,6 @@ This is a basic template. Simply go to point A to B as straight you can
     var disqus_config = function () {
         this.page.url = 'https://maparrar.me/tattoo-templates/';
         this.page.identifier = 'tattoo-templates';
-
-        alert("Testing");
-        alert(this.page.url);
-        alert(this.page.identifier);
     };
     (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
@@ -49,10 +45,9 @@ This is a basic template. Simply go to point A to B as straight you can
 
 
 <br><br><br><br><br>
+<hr>
 <sub><sup>
     Tattoo account: <a href="https://www.instagram.com/maparrar.t/" target="_blank">@maparrar.t</a> - 
     Drawing account: <a href="https://www.instagram.com/maparrar.d/" target="_blank">@maparrar.d</a>
 </sup></sub>
 {% include donate.html %}
-
-B
