@@ -22,6 +22,7 @@ This is a basic template. Simply go to point A to B as straight you can
 <iframe src="/resources/files/short_lines.pdf" width="100%" height="500px"></iframe>
 
 <br><br>
+<hr>
 {% if page.comments %}
     {% if page.comments != false and jekyll.environment == "production" %}
 
