@@ -22,11 +22,11 @@ github_username:  maparrar
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-awesome
 # remote-theme: pages-themes/hacker
-remote-theme: akiritsu/pRoJEct-NeGYa
+# remote-theme: akiritsu/pRoJEct-NeGYa
 
 
 plugins:
