@@ -12,14 +12,46 @@ This is a collection of templates to practice tattooing. Please be free to downl
 1. Select and download the template
 2. Create the stencil
 3. Transfer to the practice skin
-4. Practice!
+4. Tattoo it!
+    - Remember go bottom-up to avoid erase the stencil
+    - Try to go from A to B to C and so on
+    - Use the numbers to label the voltage you used 
+<br><br>
 
 ## Short lines
 This is a basic template. Simply go to point A to B as straight you can
-
 <iframe src="/resources/files/short_lines.pdf" width="100%" height="1000px"></iframe>
-
 <br><br>
+
+## Medium lines
+This is a basic template. Simply go to point A to B as straight you can
+<iframe src="/resources/files/medium_lines.pdf" width="100%" height="1000px"></iframe>
+<br><br>
+
+<!--
+short lines
+medium lines
+long lines
+long lines with pause
+short curves
+medium curves
+long curves
+long curves with pause
+small gradients
+large gradients
+
+líneas cortas
+líneas medianas
+líneas largas
+líneas largas con pausa
+curvas cortas
+curvas medianas
+curvas largas
+curvas largas con pausa
+degradados pequeños
+degradados grandes
+-->
+
 <hr>
 {% if page.comments %}
     {% if page.comments != false and jekyll.environment == "production" %}
