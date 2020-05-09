@@ -24,12 +24,13 @@ This is a basic template. Simply go to point A to B as straight you can
 <object data="/resources/files/short_lines.pdf" width="100%" height="1000px">
     <p><a href="/resources/files/short_lines.pdf">Download</a></p>
 </object>
-
 <br><br>
 
 ## Medium lines
 This is a basic template. Simply go to point A to B as straight you can
-<iframe src="/resources/files/medium_lines.pdf" width="100%" height="1000px"></iframe>
+<object data="/resources/files/medium_lines.pdf" width="100%" height="1000px">
+    <p><a href="/resources/files/medium_lines.pdf">Download</a></p>
+</object>
 <br><br>
 
 <!--
