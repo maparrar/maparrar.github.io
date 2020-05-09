@@ -18,6 +18,9 @@ This is a collection of templates to practice tattooing. Please be free to downl
     - Use the numbers to label the voltage you used 
 <br><br>
 
+
+<embed src="/resources/files/short_lines.pdf" type="application/pdf" width="100%" height="1000px"/>
+
 ## Short lines
 This is a basic template. Simply go to point A to B as straight you can
 <iframe src="/resources/files/short_lines.pdf" width="100%" height="1000px"></iframe>
