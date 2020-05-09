@@ -8,18 +8,16 @@ permalink: /tattoo-templates/
 This is a collection of templates to practice tattooing. Please be free to download and share it.
 
 
+## How to use
+1. Select and download the template
+2. Create the stencil
+3. Transfer to the practice skin
+4. Practice!
 
-# How to use this templates
-1. Manual mode (with printer)
-    - Print the template
-2. Manual mode (without printer)
-3. With transfer machine
-4. With stencil printer
-
-# Short lines
+## Short lines
 This is a basic template. Simply go to point A to B as straight you can
 
-<iframe src="/resources/files/short_lines.pdf" width="100%" height="500px"></iframe>
+<iframe src="/resources/files/short_lines.pdf" width="100%" height="1000px"></iframe>
 
 <br><br>
 <hr>
