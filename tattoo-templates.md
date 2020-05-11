@@ -6,7 +6,9 @@ permalink: /tattoo-templates/
 ---
 
 This is a collection of templates to practice tattooing. Please be free to download and share it.
-Inspired by Ben Fisher and <a href="https://www.youtube.com/playlist?list=PLQVjR8z1CCnFUSlA4w2xTUeM24cNHqdUo" target="_blank">his course</a>
+Inspired by Ben Fisher and <a href="https://www.youtube.com/playlist?list=PLQVjR8z1CCnFUSlA4w2xTUeM24cNHqdUo" target="_blank">his course</a>.
+
+Soon more templates...
 
 ## How to use
 1. Select and download the template
