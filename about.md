@@ -6,4 +6,8 @@ permalink: /about/
 
 Sitio personal de Alejandro Parra.
 
-Proyectos y demás.
+- Passionate about open source things
+- Computer Scientist
+- Tattoo apprentice
+- Drawing apprentice
+- Student forever
