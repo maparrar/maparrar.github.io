@@ -8,7 +8,7 @@ layout: home
 
 Hey! I'm **Miguel Alejandro Parra**.
 
-### Work
+### [Work](https://www.linkedin.com/in/maparrar)
 * **Senior Software Engineer** at **Microsoft**: Building intelligent tools and enterprise AI integrations.
 
 ### Education
