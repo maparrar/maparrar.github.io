@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Hey! 👋 I'm **Miguel Alejandro Parra**.
+Hey! I'm **Miguel Alejandro Parra**.
 
 ### Work
 * **Senior Software Engineer** at **Microsoft**: Building intelligent tools and enterprise AI integrations.
