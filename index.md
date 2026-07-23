@@ -4,4 +4,16 @@
 
 layout: home
 ---
-Hey!!
+
+
+Hey! 👋 I'm **Miguel Alejandro Parra**.
+
+### Work
+* **Senior Software Engineer** at **Microsoft**: Building intelligent tools and enterprise AI integrations.
+
+### Education
+* **M.Sc. in Systems Engineering and Computing** — *Universidad Nacional de Colombia*
+* **B.S. in Systems Engineering** — *Universidad Nacional de Colombia*
+
+### Focus & Interests
+Open Source, Software architecture, systems engineering, automation, and robotics.
