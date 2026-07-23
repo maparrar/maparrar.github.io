@@ -10,6 +10,7 @@ Hey! I'm **Miguel Alejandro Parra**.
 
 ### [Work](https://www.linkedin.com/in/maparrar)
 * **Senior Software Engineer** at **Microsoft**: Building intelligent tools and enterprise AI integrations.
+* **+17 years of experience** in software development :)
 
 ### Education
 * **M.Sc. in Systems Engineering and Computing**: *Universidad Nacional de Colombia*
